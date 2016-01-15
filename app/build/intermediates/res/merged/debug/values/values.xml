@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_splitter">#FFBABABA</color>
+    <color name="bg_window">#FFF0F0F0</color>
+    <color name="sta_apdu_in">#FF0099CC</color>
+    <color name="sta_apdu_out">#FF669900</color>
+    <color name="sta_chat_in">#FF008080</color>
+    <color name="sta_chat_out">#FF000000</color>
+    <color name="sta_error">#FFCC0000</color>
+    <color name="sta_info">#FF505050</color>
+    <color name="sta_msg">#FFFF8800</color>
+    <color name="sta_warn">#FF505050</color>
+    <color name="text_edit">#FF008080</color>
+    <color name="text_hint">#FFD0D0D0</color>
+    <color name="text_normal">#FF505050</color>
+    <color name="text_select">#FFCC0000</color>
+    <dimen name="font_normal">18sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+    <dimen name="height_button">48dp</dimen>
+    <dimen name="height_label">48dp</dimen>
+    <dimen name="height_splitter">1.5dp</dimen>
+    <dimen name="margin_input">16dp</dimen>
+    <dimen name="margin_splitter">4dp</dimen>
+    <dimen name="margin_window">8dp</dimen>
+    <dimen name="width_button">96dp</dimen>
+    <string name="action_about">About</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_clearlogs">Clear Logs Cache</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_discoverydelay">Card Discovery Delay</string>
+    <string name="action_ok">OK</string>
+    <string name="action_save">Save Logs</string>
+    <string name="action_settings">Manage WiFi Direct</string>
+    <string name="action_share">Share</string>
+    <string name="action_viewlogs">View Logs Cache</string>
+    <string name="app_name">NFC Spy</string>
+    <string name="event_log_copy">All data has been copied to clipboard</string>
+    <string name="event_log_notsave">Error occurred when saving file %1$s</string>
+    <string name="event_log_save">All data has been saved to %1$s</string>
+    <string name="event_nfc_attach">--- %1$s Card [%2$s] Attached! [%3$s]</string>
+    <string name="event_nfc_lost">No Attached Card!</string>
+    <string name="event_nfc_rsp">No Respones!</string>
+    <string name="event_p2p_connect">Send Data Failed!</string>
+    <string name="event_p2p_disable">WiFi Direct Disabled!</string>
+    <string name="event_p2p_version">Both of service version are %1$s</string>
+    <string name="event_p2p_version2">Service versions are different, Peer\'s is %1$s while mine is %2$s, Maybe not work!</string>
+    <string name="hint_chat">Type Message</string>
+    <string name="hint_discoverydelay">Default 1000ms</string>
+    <string name="hint_file">Log file name</string>
+    <string name="hint_note">Notes [Optional]</string>
+    <string name="info_about">
+	
+    &lt;div>NFC Spy make it easy to watch APDUs transceived between reader and contactless smart card. &lt;p />
+    &lt;br />This is a free and opensource software. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, Either version 3 of the license, or (at your option) any later version. See &lt;a href="http://www.gnu.org/licenses/gpl.txt">www.gnu.org/licenses/gpl.txt&lt;/a>.&lt;br />
+	&lt;br />Newest version and source code can be found at &lt;a href="https://github.com/sinpolib/nfcspy/">github.com/sinpolib/nfcspy&lt;/a>&lt;br />
+    &lt;br />By &lt;a href="mailto:sinpowei@gmail.com">Sinpo Lib&lt;/a>, 2015. &lt;div>
+    
+    </string>
+    <string name="info_connect">Connect to %1$s ?</string>
+    <string name="info_connecting">Connecting to %1$s …</string>
+    <string name="info_disconnect">Disconnect from %1$s ?</string>
+    <string name="info_discovering">Discovering peers …</string>
+    <string name="lab_aiddesc_main">AID_GROUP_MAIN</string>
+    <string name="lab_aiddesc_other">AID_GROUP_OTHER</string>
+    <string name="lab_carddesc">NFCSpy Card</string>
+    <string name="lab_chat">Send</string>
+    <string name="lab_clear">Clear</string>
+    <string name="lab_discoverydelay">Set the delay system will use for performing presence checks on any discovered tag in NFC reader mode. Can be used to prevent irrelevant instructions disturb current session state, but setting too long will reduce card detection sensitivity. Only works for current program, in milliseconds:</string>
+    <string name="lab_highspeed">HiSpeed</string>
+    <string name="lab_p2p">Manage WiFi Direct</string>
+    <string name="lab_p2p_connect">Connect</string>
+    <string name="lab_p2p_disconnect">Disconnect</string>
+    <string name="lab_p2p_discover">Discover</string>
+    <string name="lab_p2p_me">Me</string>
+    <string name="lab_p2p_peers">Peers</string>
+    <string name="lab_start">Start</string>
+    <string name="lab_stop">Stop</string>
+    <string name="status_connect">Open Socket</string>
+    <string name="status_deactivated">--- %1$s HCE Deactivated. [%2$s]</string>
+    <string name="status_disconn">Close Socket</string>
+    <string name="status_failure">\u0020Failed!</string>
+    <string name="status_getaddr">Get P2P Link Info</string>
+    <string name="status_init">Initialization</string>
+    <string name="status_no_hce">Not Suport HCE! (Need android 4.4 or greater)</string>
+    <string name="status_no_nfc">NFC Is Not Enabled!</string>
+    <string name="status_no_wifi">WiFi Is Not Enabled!</string>
+    <string name="status_p2p_accept">Group Owner Accept Connect</string>
+    <string name="status_p2p_available">Available</string>
+    <string name="status_p2p_client">Connect To Group Owner</string>
+    <string name="status_p2p_connected">Connected</string>
+    <string name="status_p2p_failed">Failed</string>
+    <string name="status_p2p_invited">Invited</string>
+    <string name="status_p2p_unavailable">Unavailable</string>
+    <string name="status_success">\u0020Successful!</string>
+    <string name="status_waitting">Waitting…</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowBackground">@color/bg_window</item>
+    </style>
+    <style name="button" parent="label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/height_button</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="editor" parent="label">
+        <item name="android:textColorHint">@color/text_hint</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_edit</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/height_label</item>
+        <item name="android:background">@null</item>
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">@color/text_normal</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="list">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:clickable">false</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+    <style name="splitter">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/height_splitter</item>
+        <item name="android:background">@color/bg_splitter</item>
+        <item name="android:layout_marginTop">@dimen/margin_splitter</item>
+        <item name="android:layout_marginBottom">@dimen/margin_window</item>
+    </style>
+</resources>

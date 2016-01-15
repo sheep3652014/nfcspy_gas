@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\xml\\apdu7816.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\xml\\apdu7816.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\xml\\apdu7816.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\xml\\apdu7816.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\xml\\hce_aids.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\xml\\hce_aids.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\xml\\hce_aids.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\xml\\hce_aids.xml"
+    }
+]

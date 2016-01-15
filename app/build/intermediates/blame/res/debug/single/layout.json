@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_savelog.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\layout\\dialog_savelog.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_peer.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\layout\\listitem_peer.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_message.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\layout\\dialog_message.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_message.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\layout\\dialog_message.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_savelog.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\layout\\dialog_savelog.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_peer.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\layout\\listitem_peer.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manage_p2p.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\layout\\activity_manage_p2p.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manage_p2p.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\layout\\activity_manage_p2p.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_message.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis\\nfcspy-master_idea\\app\\src\\main\\res\\layout\\listitem_message.xml"
+    },
+    {
+        "merged": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_message.xml",
+        "source": "D:\\project\\studio_project\\NFC_Anaysis_idea\\app\\src\\main\\res\\layout\\listitem_message.xml"
+    }
+]
